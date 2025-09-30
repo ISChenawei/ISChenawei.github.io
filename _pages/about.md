@@ -12,7 +12,7 @@ I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)*
 
 🔥News
 ------
-- 2025.05.17: One paper about **Multi-Level Embedding and Alignment Network with Consistency and Invariance Learning for Cross-View Geo-Localization** is accepted by TGRS2025. [Paper](<https://pan.baidu.com/s/1YPEV27tnadqCZBRCscTMTA>) [Code](<https://github.com/ISChenawei/MEAN>)
+- 2025.05.17: One paper about **Multi-Level Embedding and Alignment Network with Consistency and Invariance Learning for Cross-View Geo-Localization** is accepted by TGRS2025. [Paper](<https://ieeexplore.ieee.org/document/11010144>) [Code](<https://github.com/ISChenawei/MEAN>)
 - 2025.03.07: One paper about **From Limited Labels to Open Domains:An Efficient Learning Method for Drone-view Geo-Localization** is submitted to ArXiv. [Paper](<https://arxiv.org/abs/2503.07520>)
 - 2025.02.17: One paper about **Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-view Geo-Localization** is submitted to ArXiv. [Paper](<https://arxiv.org/abs/2502.11381>) [Code](<https://github.com/ISChenawei/DMNIL>)
 
