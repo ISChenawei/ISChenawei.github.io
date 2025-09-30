@@ -10,17 +10,11 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Honors and Awards"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Experience"
     url: /year-archive/
     
   - title: "CV"
