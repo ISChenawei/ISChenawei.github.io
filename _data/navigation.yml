@@ -11,14 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Honors and Awards"
-    url: /portfolio/
+  # - title: "Honors and Awards"
+  #   url: /portfolio/
         
-  - title: "Experience"
-    url: /year-archive/
+  # - title: "Experience"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
