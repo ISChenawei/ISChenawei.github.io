@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome! My name is **Zhongwei Chen (陈中伟)**, currently a master's student at [**XJTU**](http://www.xjtu.edu.cn/).
-I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof.[**Zhaoxu Yang (荣海军)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(国家杰青)** . I received the B.S. degree from the School of [**CAUC**](https://www.cauc.edu.cn/zhv5/). My current research interests are mainly about **Visual Navigation** and **Cross-modality and Cross-view Learning**.
+I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof.[**Zhaoxu Yang (荣海军)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(国家杰青)** . I received the B.S. degree from the School of [**CAUC**](https://www.cauc.edu.cn/zhv5/), under the supervision of Prof. [**Hongying Zhang (张红颖)**](https://www.cauc.edu.cn/ddxy/info/1188/1516.htm). My current research interests are mainly about **Visual Navigation** and **Cross-modality and Cross-view Learning**.
 
 🔥News
 ------
@@ -19,19 +19,29 @@ I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)*
 🏆 Honors and Awards
 ------
 Undergraduate Grades
-- **Ranked 1st / 113** in the School of Electronic Information and Automation, Civil Aviation University of China
-- **Recommended for Direct Admission to Graduate Study** at Xi’an Jiaotong University (免试推免研究生)
+- **Ranked 1st / 113** in the Automation major, [**CAUC**](https://www.cauc.edu.cn/zhv5/)
+- **Recommended for Direct Admission to Graduate Study** at [**XJTU**](http://www.xjtu.edu.cn/)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+🎖️Graduate Scholarships
+-Sep. 2024 - Oct. 2024: Awarded the [**XJTU**](http://www.xjtu.edu.cn/) Academic Scholarship, Second Prize for New Students.
+🎖️Undergraduate Scholarships
+-Dec. 2023 – Jun. 2024: Outstanding Graduate, [**CAUC**](https://www.cauc.edu.cn/zhv5/) (Graduate Representative)
+-Dec. 2022 – Dec. 2023: National Scholarship; First-Class People’s Scholarship; Innovation and Entrepreneurship Scholarship; Outstanding Student Award; 
+-Dec. 2021 – Dec. 2022: National Scholarship; First-Class People’s Scholarship; Outstanding Student Award
+-Sep. 2020 – Dec. 2021: First-Class People’s Scholarship; Wu Jianxiong Aviation Talent Scholarship; Outstanding Student Award
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+🌟 Graduate Competitions
+-Sep. 2024 – Second Prize, Huawei Cup China Post-Graduate Mathematical Contest in Modeling (National level)
+🌟 Undergraduate Competitions
+-Aug. 2023 – Third Prize, China Youth Innovation and Entrepreneurship Competition (National Semifinal)
+-Jul. 2023 – Bronze Award, 9th China International “Internet+” Competition (Tianjin Division)
+-Jul. 2023 – Silver Award, 9th China International “Internet+” Competition (Tianjin Division)
+-Jun. 2023 – Third Prize, 17th National Energy Conservation & Emission Reduction Competition (National level)
+-Jun. 2023 – First Prize, 17th Challenge Cup Extracurricular Academic Works Competition (Tianjin Division)
+-May. 2023 – Third Prize, 18th National University Student Transportation Science and Technology Competition (National level)
+-Nov. 2022 – Second Prize, 2022 Higher Education Press Cup Mathematical Contest in Modeling (National level)
+-Nov. 2022 – Third Prize, 15th International Advanced Robotics and Simulation Competition (National level)
+-Jul. 2022 – First Prize, 17th National University Student Transportation Science and Technology Competition (National level)
+-May. 2022 – Silver Award, 7th China International “Internet+” Competition (Tianjin Division)
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ 
