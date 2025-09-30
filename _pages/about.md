@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is **Zhongwei Chen (陈中伟)**, currently a master's student at Xi'an Jiaotong University.
-I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof.[**Zhaoxu Yang (荣海军)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(Distinguished Young Scholar)** .
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! My name is **Zhongwei Chen (陈中伟)**, currently a master's student at [**XJTU**](http://www.xjtu.edu.cn/).
+I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof.[**Zhaoxu Yang (荣海军)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(Distinguished Young Scholar（杰青）)** . I received the B.S. degree from the School of [**CAUC**](https://www.cauc.edu.cn/zhv5/). My current research interests are mainly about **Visual Navigation** and **Cross-modality and Cross-view Learning**.
 
 A data-driven personal website
 ======
