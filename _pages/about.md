@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my homepage! My name is **Zhongwei Chen (陈中伟)**, currently a master's student at [**XJTU**](http://www.xjtu.edu.cn/).
-I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof.[**Zhaoxu Yang (荣海军)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(国家杰青)** . I received the B.S. degree from [**CAUC**](https://www.cauc.edu.cn/zhv5/), under the supervision of Prof. [**Hongying Zhang (张红颖)**](https://www.cauc.edu.cn/ddxy/info/1188/1516.htm). My current research interests are mainly about **Visual Navigation** and **Cross-modality and Cross-view Learning**.
+I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof.[**Haijun Rong (荣海军)**](https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(国家杰青)** . I received the B.S. degree from [**CAUC**](https://www.cauc.edu.cn/zhv5/), under the supervision of Prof. [**Hongying Zhang (张红颖)**](https://www.cauc.edu.cn/ddxy/info/1188/1516.htm). My current research interests are mainly about **Visual Navigation** and **Cross-modality and Cross-view Learning**.
 
 🔥News
 ------
