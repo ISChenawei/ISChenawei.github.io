@@ -23,11 +23,12 @@ Undergraduate Grades
 - **Recommended for Direct Admission to Graduate Study** at [**XJTU**](http://www.xjtu.edu.cn/)
 
 🎖️Graduate Scholarships
+- Oct. 2024 - Oct. 2025: National Scholarship
 - Sep. 2024 - Oct. 2024: Awarded the [**XJTU**](http://www.xjtu.edu.cn/) Academic Scholarship, Second Prize for New Students.
 
 🎖️Undergraduate Scholarships
 - Dec. 2023 – Jun. 2024: Outstanding Graduate, [**CAUC**](https://www.cauc.edu.cn/zhv5/) (Graduate Representative)
-- Dec. 2022 – Dec. 2023: National Scholarship; First-Class People’s Scholarship; Innovation and Entrepreneurship Scholarship; Outstanding Student Award; 
+- Dec. 2022 – Dec. 2023: National Scholarship; First-Class People’s Scholarship; Innovation and Entrepreneurship Scholarship; Outstanding Student Award
 - Dec. 2021 – Dec. 2022: National Scholarship; First-Class People’s Scholarship; Outstanding Student Award
 - Sep. 2020 – Dec. 2021: First-Class People’s Scholarship; Wu Jianxiong Aviation Talent Scholarship; Outstanding Student Award
 
