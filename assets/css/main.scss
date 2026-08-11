@@ -127,12 +127,26 @@ body { letter-spacing: 0; }
 .news-list { margin-top: 1.25rem; }
 .news-item {
   display: grid;
-  grid-template-columns: 88px 1fr;
-  gap: 1rem;
-  padding: 0.52rem 0;
+  grid-template-columns: 92px minmax(0, 1fr);
+  align-items: start;
+  column-gap: 1.15rem;
+  padding: 0.58rem 0;
 }
-.news-item time { color: var(--global-text-color-light); font-size: 0.79rem; font-weight: 600; }
-.news-item p { margin: 0; font-size: 0.9rem !important; }
+.news-item time {
+  display: grid;
+  grid-template-columns: 2.25rem 1fr;
+  column-gap: 0.35rem;
+  align-items: baseline;
+  text-align: left;
+  color: var(--global-text-color-light);
+  font-size: 0.79rem;
+  font-weight: 600;
+  line-height: 1.6;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.news-item time span { display: block; text-align: left; }
+.news-item p { margin: 0; font-size: 0.9rem !important; line-height: 1.6; }
 
 .home-section { scroll-margin-top: 6rem; }
 .section-heading {
@@ -226,14 +240,20 @@ body { letter-spacing: 0; }
 .honors-list span { font-size: 0.78rem; line-height: 1.48; }
 
 .author__avatar img { border: 0; border-radius: 2px; padding: 0; box-shadow: none; }
-.sidebar .author__name { margin-top: 0.9rem; font-family: Georgia, "Times New Roman", serif; font-size: 1.08rem; letter-spacing: -0.01em; }
+.sidebar .author__name {
+  margin-top: 0.9rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.94rem;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
 .author__urls a { text-decoration: none; }
 
 @media (max-width: 767px) {
   #main { margin-top: 1.5em; }
   .page__title { margin-top: 1rem; }
   .page__title::after { width: 240px; height: 44px; margin-left: 0.55rem; }
-  .news-item { grid-template-columns: 1fr; gap: 0.15rem; }
+  .news-item { grid-template-columns: 76px minmax(0, 1fr); column-gap: 0.65rem; }
   .publication-item { grid-template-columns: 1fr; gap: 0.85rem; padding: 0.75rem; }
   .publication-figure { padding: 0.3rem; }
   .publication-figure img, .publication-figure--wide img { height: auto; max-height: 240px; }

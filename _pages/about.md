@@ -10,19 +10,19 @@ redirect_from:
 <div class="about-intro">
   <div class="about-copy">
     <p class="intro-lead">I am <strong>Zhongwei Chen (陈中伟)</strong>, an M.S. student in Aerospace Science and Technology at <a href="http://www.xjtu.edu.cn/">Xi’an Jiaotong University</a>.</p>
-    <p>My research focuses on <strong>cross-view geo-localization</strong>, <strong>cross-modal learning</strong>, and <strong>efficient visual computing</strong>, with the goal of building robust perception systems for autonomous aerial platforms.</p>
-    <p>I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN">Zhaoxu Yang</a>, Prof. <a href="https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN">Haijun Rong</a>, and Prof. <a href="https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN">Guoqi Li</a>. Before joining XJTU, I received my B.S. degree from the <a href="https://www.cauc.edu.cn/zhv5/">Civil Aviation University of China</a>, where I worked with Prof. <a href="https://www.cauc.edu.cn/ddxy/info/1188/1516.htm">Hongying Zhang</a>.</p>
+    <p>My research interests lie at the intersection of <strong>cross-view geo-localization</strong>, <strong>cross-modal learning</strong>, and <strong>efficient visual computing</strong>. I develop robust and efficient representation-learning methods that connect drone imagery with satellite observations, with the broader goal of enabling reliable visual perception and localization for autonomous aerial platforms.</p>
+    <p>I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN">Zhaoxu Yang</a> and Prof. <a href="https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN">Haijun Rong</a> at Xi’an Jiaotong University, as well as Prof. <a href="https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN">Guoqi Li</a> at the Institute of Automation, Chinese Academy of Sciences. Before joining XJTU, I received my B.S. degree from the <a href="https://www.cauc.edu.cn/zhv5/">Civil Aviation University of China</a>, where I received guidance from Prof. <a href="https://www.cauc.edu.cn/ddxy/info/1188/1516.htm">Hongying Zhang</a>.</p>
   </div>
 </div>
 
 ## 🔥 News
 
 <div class="news-list">
-  <div class="news-item"><time>Jul 2026</time><p>We released <strong>GeoMFD</strong>, a continual drone-view geo-localization framework with geometry-aware adaptation and margin-field distillation, on <strong>arXiv</strong>. <a href="https://arxiv.org/abs/2607.25788">Paper</a></p></div>
-  <div class="news-item"><time>Jul 2026</time><p>Our paper <strong>SpikeViMFormer</strong> was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. <a href="https://arxiv.org/abs/2512.19365">Paper</a> · <a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></p></div>
-  <div class="news-item"><time>May 2026</time><p>Our paper <strong>DMNIL</strong> was accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. <a href="https://arxiv.org/abs/2502.11381">Paper</a> · <a href="https://github.com/ISChenawei/DMNIL">Code</a></p></div>
-  <div class="news-item"><time>Apr 2026</time><p>Our paper <strong>CDIKTNet</strong> was accepted by <strong>IEEE Transactions on Multimedia</strong>. <a href="https://arxiv.org/abs/2503.07520">Paper</a> · <a href="https://github.com/ISChenawei/CDIKTNet">Code</a></p></div>
-  <div class="news-item"><time>May 2025</time><p>Our paper <strong>MEAN</strong> was accepted by <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. <a href="https://ieeexplore.ieee.org/document/11010144">Paper</a> · <a href="https://github.com/ISChenawei/MEAN">Code</a></p></div>
+  <div class="news-item"><time><span>Jul</span><span>2026</span></time><p>We released <strong>GeoMFD</strong>, a continual drone-view geo-localization framework with geometry-aware adaptation and margin-field distillation, on <strong>arXiv</strong>. <a href="https://arxiv.org/abs/2607.25788">Paper</a></p></div>
+  <div class="news-item"><time><span>Jul</span><span>2026</span></time><p>Our paper <strong>SpikeViMFormer</strong> was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. <a href="https://ieeexplore.ieee.org/document/11622533">Paper</a> · <a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></p></div>
+  <div class="news-item"><time><span>May</span><span>2026</span></time><p>Our paper <strong>DMNIL</strong> was accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. <a href="https://ieeexplore.ieee.org/document/11540350">Paper</a> · <a href="https://github.com/ISChenawei/DMNIL">Code</a></p></div>
+  <div class="news-item"><time><span>Apr</span><span>2026</span></time><p>Our paper <strong>CDIKTNet</strong> was accepted by <strong>IEEE Transactions on Multimedia</strong>. <a href="https://ieeexplore.ieee.org/document/11622851">Paper</a> · <a href="https://github.com/ISChenawei/CDIKTNet">Code</a></p></div>
+  <div class="news-item"><time><span>May</span><span>2025</span></time><p>Our paper <strong>MEAN</strong> was accepted by <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. <a href="https://ieeexplore.ieee.org/document/11010144">Paper</a> · <a href="https://github.com/ISChenawei/MEAN">Code</a></p></div>
 </div>
 
 <section id="publications" class="home-section publications-section">
@@ -38,44 +38,44 @@ redirect_from:
     <div class="publication-info">
       <div class="publication-meta"><span class="publication-venue-mark">arXiv 2026</span><span>Under Review</span></div>
       <h3>GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation</h3>
-      <p class="publication-authors"><strong>Zhongwei Chen</strong> et al.</p>
+      <p class="publication-authors"><strong>Zhongwei Chen</strong>, Hai-Jun Rong, Tao Zhang, Xianfeng Nie, Xiangbao Zhang, Guoqi Li, Zhao-Xu Yang</p>
       <div class="publication-links"><a href="https://arxiv.org/abs/2607.25788">Paper</a></div>
     </div>
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure publication-figure--wide" data-venue="TCSVT 2026" href="https://arxiv.org/abs/2512.19365" aria-label="Read the SpikeViMFormer paper">
+    <a class="publication-figure publication-figure--wide" data-venue="TCSVT 2026" href="https://ieeexplore.ieee.org/document/11622533" aria-label="Read the SpikeViMFormer paper">
       <img src="/images/publications/tcsvt.png" alt="SpikeViMFormer network architecture" loading="lazy">
     </a>
     <div class="publication-info">
       <div class="publication-meta"><span class="publication-venue-mark">TCSVT 2026</span><span>Journal Article</span></div>
       <h3>Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h3>
-      <p class="publication-authors"><strong>Zhongwei Chen</strong> et al.</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2512.19365">Paper</a><a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></div>
+      <p class="publication-authors"><strong>Zhongwei Chen</strong>, Hai-Jun Rong, Longrun Xu, Jie Lu, Zhuo Zou, Zhao-Xu Yang, Guoqi Li</p>
+      <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11622533">Paper</a><a href="https://arxiv.org/abs/2512.19365">arXiv</a><a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></div>
     </div>
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure" data-venue="TNNLS 2026" href="https://arxiv.org/abs/2502.11381" aria-label="Read the DMNIL paper">
+    <a class="publication-figure" data-venue="TNNLS 2026" href="https://ieeexplore.ieee.org/document/11540350" aria-label="Read the DMNIL paper">
       <img src="/images/publications/tnnls.png" alt="DMNIL network architecture" loading="lazy">
     </a>
     <div class="publication-info">
       <div class="publication-meta"><span class="publication-venue-mark">TNNLS 2026</span><span>Journal Article</span></div>
       <h3>Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-view Geo-Localization</h3>
       <p class="publication-authors"><strong>Zhongwei Chen</strong>, Zhao-Xu Yang, Hai-Jun Rong, Guoqi Li</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2502.11381">Paper</a><a href="https://github.com/ISChenawei/DMNIL">Code</a></div>
+      <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11540350">Paper</a><a href="https://arxiv.org/abs/2502.11381">arXiv</a><a href="https://github.com/ISChenawei/DMNIL">Code</a></div>
     </div>
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure" data-venue="TMM 2026" href="https://arxiv.org/abs/2503.07520" aria-label="Read the CDIKTNet paper">
+    <a class="publication-figure" data-venue="TMM 2026" href="https://ieeexplore.ieee.org/document/11622851" aria-label="Read the CDIKTNet paper">
       <img src="/images/publications/tmm.png" alt="CDIKTNet network architecture" loading="lazy">
     </a>
     <div class="publication-info">
       <div class="publication-meta"><span class="publication-venue-mark">TMM 2026</span><span>Journal Article</span></div>
       <h3>From Limited Labels to Open Domains: An Efficient Learning Method for Drone-view Geo-Localization</h3>
       <p class="publication-authors"><strong>Zhongwei Chen</strong>, Zhao-Xu Yang, Hai-Jun Rong, Jiawei Lang, Guoqi Li</p>
-      <div class="publication-links"><a href="https://arxiv.org/abs/2503.07520">Paper</a><a href="https://github.com/ISChenawei/CDIKTNet">Code</a></div>
+      <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11622851">Paper</a><a href="https://arxiv.org/abs/2503.07520">arXiv</a><a href="https://github.com/ISChenawei/CDIKTNet">Code</a></div>
     </div>
   </article>
 
