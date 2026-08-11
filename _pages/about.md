@@ -1,50 +1,87 @@
 ---
 permalink: /
-title: "🤗Personal Profile"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome to my homepage! My name is **Zhongwei Chen (陈中伟)**, currently a master's student at [**XJTU**](http://www.xjtu.edu.cn/).
-I am conducting research under the guidance of Prof. [**Zhaoxu Yang (杨朝旭)**](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN)、Prof. [**Haijun Rong (荣海军)**](https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN) **(Senior Member, IEEE)** and Prof. [**Guoqi Li (李国齐)**](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN).**(国家杰青)** . I received the B.S. degree from [**CAUC**](https://www.cauc.edu.cn/zhv5/), under the supervision of Prof. [**Hongying Zhang (张红颖)**](https://www.cauc.edu.cn/ddxy/info/1188/1516.htm). My current research interests are mainly about **Visual Navigation** and **Cross-modality and Cross-view Learning**.
+<p class="intro-lead">Hi, I’m <strong>Zhongwei Chen (陈中伟)</strong>, a master’s student at <a href="http://www.xjtu.edu.cn/">Xi’an Jiaotong University</a>.</p>
 
-🔥News
-------
-- 2025.05.17: One paper about **Multi-Level Embedding and Alignment Network with Consistency and Invariance Learning for Cross-View Geo-Localization** is accepted by TGRS2025. [Paper](<https://ieeexplore.ieee.org/document/11010144>) [Code](<https://github.com/ISChenawei/MEAN>)
-- 2025.03.07: One paper about **From Limited Labels to Open Domains:An Efficient Learning Method for Drone-view Geo-Localization** is submitted to ArXiv. [Paper](<https://arxiv.org/abs/2503.07520>)
-- 2025.02.17: One paper about **Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-view Geo-Localization** is submitted to ArXiv. [Paper](<https://arxiv.org/abs/2502.11381>) [Code](<https://github.com/ISChenawei/DMNIL>)
+I work with Prof. [Zhaoxu Yang](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN), Prof. [Haijun Rong](https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN), and Prof. [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN). Before joining XJTU, I received my B.S. degree from the [Civil Aviation University of China](https://www.cauc.edu.cn/zhv5/), where I was advised by Prof. [Hongying Zhang](https://www.cauc.edu.cn/ddxy/info/1188/1516.htm).
 
-🏆 Honors and Awards
-------
-Undergraduate Grades
-- **Ranked 1st / 113** in the Automation major, [**CAUC**](https://www.cauc.edu.cn/zhv5/)
-- **Recommended for Direct Admission to Graduate Study** at [**XJTU**](http://www.xjtu.edu.cn/)
+My research focuses on <strong>visual navigation</strong>, <strong>cross-modal learning</strong>, and <strong>cross-view geo-localization</strong>. I am interested in building robust perception systems that connect aerial and ground-level visual observations.
 
-🎖️Graduate Scholarships
-- Oct. 2024 - Oct. 2025: National Scholarship
-- Sep. 2024 - Oct. 2024: Awarded the [**XJTU**](http://www.xjtu.edu.cn/) Academic Scholarship, Second Prize for New Students.
+<div class="research-tags" aria-label="Research interests">
+  <span>Visual Navigation</span><span>Cross-modal Learning</span><span>Cross-view Geo-localization</span>
+</div>
 
-🎖️Undergraduate Scholarships
-- Dec. 2023 – Jun. 2024: Outstanding Graduate, [**CAUC**](https://www.cauc.edu.cn/zhv5/) (Outstanding Graduate Representative)
-- Dec. 2022 – Dec. 2023: National Scholarship; First-Class People’s Scholarship; Innovation and Entrepreneurship Scholarship; Outstanding Student Award
-- Dec. 2021 – Dec. 2022: National Scholarship; First-Class People’s Scholarship; Outstanding Student Award
-- Sep. 2020 – Dec. 2021: First-Class People’s Scholarship; Wu Jianxiong Aviation Talent Scholarship; Outstanding Student Award
+## News
 
-🌟 Graduate Competitions
-- Sep. 2024 – Second Prize, Huawei Cup China Post-Graduate Mathematical Contest in Modeling (National level)
+<div class="news-list">
+  <div class="news-item"><time>May 2025</time><p>Our paper <strong>MEAN</strong> was accepted by <strong>IEEE TGRS</strong>. <a href="https://ieeexplore.ieee.org/document/11010144">Paper</a> · <a href="https://github.com/ISChenawei/MEAN">Code</a></p></div>
+  <div class="news-item"><time>Mar 2025</time><p>We released <strong>ELM</strong>, an efficient learning method for open-domain drone-view geo-localization. <a href="https://arxiv.org/abs/2503.07520">Paper</a></p></div>
+  <div class="news-item"><time>Feb 2025</time><p>We released <strong>DMNIL</strong>, an end-to-end self-supervised framework for drone-view geo-localization. <a href="https://arxiv.org/abs/2502.11381">Paper</a> · <a href="https://github.com/ISChenawei/DMNIL">Code</a></p></div>
+</div>
 
-🌟 Undergraduate Competitions
-- Aug. 2023 – Third Prize, China Youth Innovation and Entrepreneurship Competition (National Semifinal)
-- Jul. 2023 – Bronze Award, 9th China International “Internet+” Competition (Tianjin Division)
-- Jul. 2023 – Silver Award, 9th China International “Internet+” Competition (Tianjin Division)
-- Jun. 2023 – Third Prize, 17th National Energy Conservation & Emission Reduction Competition (National level)
-- Jun. 2023 – First Prize, 17th Challenge Cup Extracurricular Academic Works Competition (Tianjin Division)
-- May. 2023 – Third Prize, 18th National University Student Transportation Science and Technology Competition (National level)
-- Nov. 2022 – Second Prize, 2022 Higher Education Press Cup Mathematical Contest in Modeling (National level)
-- Nov. 2022 – Third Prize, 15th International Advanced Robotics and Simulation Competition (National level)
-- Jul. 2022 – First Prize, 17th National University Student Transportation Science and Technology Competition (National level)
-- May. 2022 – Silver Award, 7th China International “Internet+” Competition (Tianjin Division)
+<section id="publications" class="home-section publications-section">
+  <div class="section-heading">
+    <h2>Selected Publications</h2>
+    <a class="scholar-link" href="https://scholar.google.com/citations?hl=zh-CN&user=6hLYIeUAAAAJ">Google Scholar →</a>
+  </div>
 
- 
+  <article class="publication-card featured-publication">
+    <div class="publication-year">2025</div>
+    <div class="publication-body">
+      <span class="venue-badge">IEEE TGRS</span>
+      <h3>Multi-Level Embedding and Alignment Network with Consistency and Invariance Learning for Cross-View Geo-Localization</h3>
+      <p class="publication-authors"><strong>Zhongwei Chen</strong> et al.</p>
+      <p class="publication-venue">IEEE Transactions on Geoscience and Remote Sensing, 2025</p>
+      <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11010144">Paper</a><a href="https://github.com/ISChenawei/MEAN">Code</a></div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2025</div>
+    <div class="publication-body">
+      <span class="venue-badge venue-preprint">arXiv</span>
+      <h3>From Limited Labels to Open Domains: An Efficient Learning Method for Drone-view Geo-Localization</h3>
+      <p class="publication-authors"><strong>Zhongwei Chen</strong> et al.</p>
+      <p class="publication-venue">arXiv preprint, 2025</p>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2503.07520">Paper</a></div>
+    </div>
+  </article>
+
+  <article class="publication-card">
+    <div class="publication-year">2025</div>
+    <div class="publication-body">
+      <span class="venue-badge venue-preprint">arXiv</span>
+      <h3>Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-view Geo-Localization</h3>
+      <p class="publication-authors"><strong>Zhongwei Chen</strong> et al.</p>
+      <p class="publication-venue">arXiv preprint, 2025</p>
+      <div class="publication-links"><a href="https://arxiv.org/abs/2502.11381">Paper</a><a href="https://github.com/ISChenawei/DMNIL">Code</a></div>
+    </div>
+  </article>
+</section>
+
+## Honors & Awards
+
+<div class="honors-grid">
+  <div class="honor-card"><span>2024–2025</span><strong>National Scholarship</strong><p>Xi’an Jiaotong University</p></div>
+  <div class="honor-card"><span>Undergraduate</span><strong>Ranked 1st / 113</strong><p>Automation, CAUC</p></div>
+  <div class="honor-card"><span>2024</span><strong>Direct Graduate Admission</strong><p>Xi’an Jiaotong University</p></div>
+  <div class="honor-card"><span>2024</span><strong>National Second Prize</strong><p>Huawei Cup Mathematical Contest in Modeling</p></div>
+</div>
+
+<details class="more-achievements">
+  <summary>More awards & competitions</summary>
+  <ul>
+    <li>Outstanding Graduate, CAUC (Outstanding Graduate Representative), 2024</li>
+    <li>National Scholarship; First-Class People’s Scholarship; Innovation and Entrepreneurship Scholarship, 2023</li>
+    <li>National Scholarship; First-Class People’s Scholarship; Outstanding Student Award, 2022</li>
+    <li>Third Prize, China Youth Innovation and Entrepreneurship Competition (National Semifinal), 2023</li>
+    <li>Third Prize, National Energy Conservation & Emission Reduction Competition, 2023</li>
+    <li>Third Prize, National University Student Transportation Science and Technology Competition, 2023</li>
+  </ul>
+</details>
