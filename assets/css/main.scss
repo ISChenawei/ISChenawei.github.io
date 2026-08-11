@@ -214,12 +214,12 @@ body { letter-spacing: 0; }
 .experience-item ul { margin-top: 0.75rem; }
 .experience-item li { margin-bottom: 0.38rem; }
 
-.awards-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; }
+.awards-columns { display: grid; grid-template-columns: 0.95fr 1.05fr; gap: 2rem; align-items: start; }
 .awards-group h3 { margin: 0.4rem 0 0.6rem; font-family: Georgia, "Times New Roman", serif; font-size: 0.95rem; }
 .honors-list { margin-left: 0 !important; padding-left: 0; list-style: none; }
-.honors-list li { display: grid; grid-template-columns: 58px 1fr; gap: 0.65rem; padding: 0.45rem 0; border-top: 1px solid var(--global-border-color); }
+.honors-list li { display: grid; grid-template-columns: 62px 1fr; gap: 0.65rem; padding: 0.42rem 0; border-top: 1px solid var(--global-border-color); }
 .honors-list time { color: var(--global-text-color-light); font-size: 0.8rem; }
-.honors-list span { font-size: 0.82rem; line-height: 1.5; }
+.honors-list span { font-size: 0.78rem; line-height: 1.48; }
 
 .author__avatar img { border: 0; border-radius: 2px; padding: 0; box-shadow: none; }
 .sidebar .author__name { margin-top: 0.9rem; font-family: Georgia, "Times New Roman", serif; font-size: 1.08rem; letter-spacing: -0.01em; }
