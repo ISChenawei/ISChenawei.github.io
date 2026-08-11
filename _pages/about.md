@@ -16,9 +16,11 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
 ## 🔥 News
 
 <div class="news-list">
-  <div class="news-item"><time>Apr 2026</time><p>Our work on limited-label and open-domain drone-view geo-localization was accepted by <strong>IEEE TMM</strong>. <a href="https://arxiv.org/abs/2503.07520">Paper</a></p></div>
-  <div class="news-item"><time>May 2025</time><p>Our paper <strong>MEAN</strong> was accepted by <strong>IEEE TGRS</strong>. <a href="https://ieeexplore.ieee.org/document/11010144">Paper</a> · <a href="https://github.com/ISChenawei/MEAN">Code</a></p></div>
-  <div class="news-item"><time>Feb 2025</time><p>We released <strong>DMNIL</strong>, an end-to-end self-supervised framework for drone-view geo-localization. <a href="https://arxiv.org/abs/2502.11381">Paper</a> · <a href="https://github.com/ISChenawei/DMNIL">Code</a></p></div>
+  <div class="news-item"><time>Jul 2026</time><p>We released <strong>GeoMFD</strong>, a continual drone-view geo-localization framework with geometry-aware adaptation and margin-field distillation, on <strong>arXiv</strong>. <a href="https://arxiv.org/abs/2607.25788">Paper</a></p></div>
+  <div class="news-item"><time>May 2026</time><p>Our paper <strong>DMNIL</strong> was accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. <a href="https://arxiv.org/abs/2502.11381">Paper</a> · <a href="https://github.com/ISChenawei/DMNIL">Code</a></p></div>
+  <div class="news-item"><time>Apr 2026</time><p>Our paper <strong>CDIKTNet</strong> was accepted by <strong>IEEE Transactions on Multimedia</strong>. <a href="https://arxiv.org/abs/2503.07520">Paper</a> · <a href="https://github.com/ISChenawei/CDIKTNet">Code</a></p></div>
+  <div class="news-item"><time>2026</time><p>Our paper <strong>SpikeViMFormer</strong> was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. <a href="https://arxiv.org/abs/2512.19365">Paper</a> · <a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></p></div>
+  <div class="news-item"><time>May 2025</time><p>Our paper <strong>MEAN</strong> was accepted by <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. <a href="https://ieeexplore.ieee.org/document/11010144">Paper</a> · <a href="https://github.com/ISChenawei/MEAN">Code</a></p></div>
 </div>
 
 <section id="publications" class="home-section publications-section">
@@ -28,7 +30,7 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
   </div>
 
   <article class="publication-item">
-    <a class="publication-figure" href="https://arxiv.org/abs/2607.25788" aria-label="Read the GeoMFD paper">
+    <a class="publication-figure" data-venue="arXiv 2026" href="https://arxiv.org/abs/2607.25788" aria-label="Read the GeoMFD paper">
       <img src="/images/publications/arxiv.png" alt="GeoMFD network architecture" loading="lazy">
     </a>
     <div class="publication-info">
@@ -40,7 +42,7 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure publication-figure--wide" href="https://arxiv.org/abs/2512.19365" aria-label="Read the SpikeViMFormer paper">
+    <a class="publication-figure publication-figure--wide" data-venue="TCSVT 2026" href="https://arxiv.org/abs/2512.19365" aria-label="Read the SpikeViMFormer paper">
       <img src="/images/publications/tcsvt.png" alt="SpikeViMFormer network architecture" loading="lazy">
     </a>
     <div class="publication-info">
@@ -52,7 +54,7 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure" href="https://arxiv.org/abs/2502.11381" aria-label="Read the DMNIL paper">
+    <a class="publication-figure" data-venue="TNNLS 2026" href="https://arxiv.org/abs/2502.11381" aria-label="Read the DMNIL paper">
       <img src="/images/publications/tnnls.png" alt="DMNIL network architecture" loading="lazy">
     </a>
     <div class="publication-info">
@@ -64,7 +66,7 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure" href="https://arxiv.org/abs/2503.07520" aria-label="Read the CDIKTNet paper">
+    <a class="publication-figure" data-venue="TMM 2026" href="https://arxiv.org/abs/2503.07520" aria-label="Read the CDIKTNet paper">
       <img src="/images/publications/tmm.png" alt="CDIKTNet network architecture" loading="lazy">
     </a>
     <div class="publication-info">
@@ -76,7 +78,7 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
   </article>
 
   <article class="publication-item">
-    <a class="publication-figure" href="https://ieeexplore.ieee.org/document/11010144" aria-label="Read the MEAN paper">
+    <a class="publication-figure" data-venue="TGRS 2025" href="https://ieeexplore.ieee.org/document/11010144" aria-label="Read the MEAN paper">
       <img src="/images/publications/tgrs.png" alt="MEAN network architecture" loading="lazy">
     </a>
     <div class="publication-info">
