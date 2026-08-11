@@ -92,6 +92,13 @@ redirect_from:
   </article>
 </section>
 
+## 🧑‍💻 Academic Service
+
+<div class="service-list">
+  <div class="service-item"><span>Reviewer</span><strong>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</strong></div>
+  <div class="service-item"><span>Reviewer</span><strong>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</strong></div>
+</div>
+
 ## 💼 Experience
 
 <div class="experience-item">
@@ -113,7 +120,6 @@ redirect_from:
       <li><time>2024</time><span><strong>National Scholarship</strong>, First-Class Academic Scholarship, Outstanding Graduate Representative, Outstanding Student, and Outstanding Thesis, CAUC</span></li>
       <li><time>2023</time><span><strong>National Scholarship</strong>, First-Class Academic Scholarship, Innovation & Entrepreneurship Scholarship, and Outstanding Student</span></li>
       <li><time>2022</time><span><strong>Wu Jianxiong Scholarship</strong>, First-Class Academic Scholarship, and Outstanding Student</span></li>
-      <li><time>IP</time><span>One registered software copyright, two utility-model patents, and one design patent</span></li>
     </ul>
   </div>
   <div class="awards-group">
@@ -121,14 +127,14 @@ redirect_from:
     <ul class="honors-list">
       <li><time>2024</time><span><strong>National Second Prize</strong>, Huawei Cup Post-Graduate Mathematical Contest in Modeling</span></li>
       <li><time>2023</time><span><strong>Bronze Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
-      <li><time>2023</time><span><strong>Silver Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
+      <li><time>2023</time><span>🥈 <strong>Silver Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
       <li><time>2023</time><span><strong>National Third Prize</strong>, Energy Conservation & Emission Reduction Competition</span></li>
-      <li><time>2023</time><span><strong>First Prize</strong>, Challenge Cup Extracurricular Academic Works Competition, Tianjin Division</span></li>
+      <li><time>2023</time><span>🏅 <strong>First Prize</strong>, Challenge Cup Extracurricular Academic Works Competition, Tianjin Division</span></li>
       <li><time>2023</time><span><strong>National Third Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
       <li><time>2022</time><span><strong>National Second Prize</strong>, Higher Education Press Cup Mathematical Contest in Modeling</span></li>
       <li><time>2022</time><span><strong>National Third Prize</strong>, International Advanced Robotics and Simulation Competition</span></li>
-      <li><time>2022</time><span><strong>National First Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
-      <li><time>2022</time><span><strong>Silver Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
+      <li><time>2022</time><span>🏅 <strong>National First Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
+      <li><time>2022</time><span>🥈 <strong>Silver Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
     </ul>
   </div>
 </div>
