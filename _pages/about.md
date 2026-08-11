@@ -99,11 +99,6 @@ redirect_from:
     <img src="/assets/logo/logo.svg" alt="Huawei logo">
     <div><strong>Huawei Technologies Co., Ltd.</strong><span>AI Agent / Software Development Intern · Consumer Business Group</span></div>
   </div>
-  <ul>
-    <li>Built agentic development workflows spanning code understanding, task planning, code modification, and automated verification.</li>
-    <li>Designed reusable SDD Skills for code retrieval, dependency analysis, generation, and modification across terminal-product development scenarios.</li>
-    <li>Supported cross-project code migration and adaptation through dependency mapping, interface integration, implementation, and functional validation.</li>
-  </ul>
 </div>
 
 ## 🏆 Honors & Awards
