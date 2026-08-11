@@ -239,7 +239,37 @@ body { letter-spacing: 0; }
 .honors-list time { color: var(--global-text-color-light); font-size: 0.8rem; }
 .honors-list span { font-size: 0.78rem; line-height: 1.48; }
 
-.author__avatar img { border: 0; border-radius: 2px; padding: 0; box-shadow: none; }
+.interests-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  padding-top: 0.2rem;
+}
+.interests-list span {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.42rem 0.75rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+  background: var(--global-bg-color);
+  font-size: 0.8rem;
+  font-weight: 600;
+  box-shadow: 0 3px 10px rgba(25, 42, 70, 0.04);
+}
+
+.author__avatar img { border: 0; border-radius: 3px; padding: 0; box-shadow: none; }
+@include breakpoint($large) {
+  .sidebar .author__avatar {
+    display: block;
+    width: 100%;
+  }
+  .sidebar .author__avatar img {
+    display: block;
+    width: 80%;
+    max-width: none;
+    margin: 0 auto;
+  }
+}
 .sidebar .author__name {
   margin-top: 0.9rem;
   font-family: Georgia, "Times New Roman", serif;

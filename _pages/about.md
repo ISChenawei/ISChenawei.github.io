@@ -10,8 +10,8 @@ redirect_from:
 <div class="about-intro">
   <div class="about-copy">
     <p class="intro-lead">I am <strong>Zhongwei Chen (陈中伟)</strong>, an M.S. student in Aerospace Science and Technology at <a href="http://www.xjtu.edu.cn/">Xi’an Jiaotong University</a>.</p>
-    <p>My research interests lie at the intersection of <strong>cross-view geo-localization</strong>, <strong>cross-modal learning</strong>, and <strong>efficient visual computing</strong>. I develop robust and efficient representation-learning methods that connect drone imagery with satellite observations, with the broader goal of enabling reliable visual perception and localization for autonomous aerial platforms.</p>
-    <p>I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN">Zhaoxu Yang</a> and Prof. <a href="https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN">Haijun Rong</a> at Xi’an Jiaotong University, as well as Prof. <a href="https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN">Guoqi Li</a> at the Institute of Automation, Chinese Academy of Sciences. Before joining XJTU, I received my B.S. degree from the <a href="https://www.cauc.edu.cn/zhv5/">Civil Aviation University of China</a>, where I received guidance from Prof. <a href="https://www.cauc.edu.cn/ddxy/info/1188/1516.htm">Hongying Zhang</a>.</p>
+    <p>My research interests include <strong>computer vision</strong>, <strong>cross-view and multimodal learning</strong>, <strong>UAV navigation and localization</strong>, <strong>continual learning</strong>, <strong>spiking neural networks and efficient visual computing</strong>, and <strong>person re-identification</strong>.</p>
+    <p>I conduct my research under the supervision of Prof. <a href="https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN">Zhaoxu Yang</a> and Prof. <a href="https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN">Haijun Rong</a> at Xi’an Jiaotong University, and Prof. <a href="https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN">Guoqi Li</a> at the Institute of Automation, Chinese Academy of Sciences. Before joining XJTU, I received my B.S. degree from the <a href="https://www.cauc.edu.cn/zhv5/">Civil Aviation University of China</a>, under the guidance of Prof. <a href="https://www.cauc.edu.cn/ddxy/info/1188/1516.htm">Hongying Zhang</a>.</p>
   </div>
 </div>
 
@@ -31,7 +31,7 @@ redirect_from:
     <a class="scholar-link" href="https://scholar.google.com/citations?hl=zh-CN&user=6hLYIeUAAAAJ">Full list on Google Scholar</a>
   </div>
 
-  <article class="publication-item">
+  <article id="geomfd" class="publication-item">
     <a class="publication-figure" data-venue="arXiv 2026" href="https://arxiv.org/abs/2607.25788" aria-label="Read the GeoMFD paper">
       <img src="/images/publications/arxiv.png" alt="GeoMFD network architecture" loading="lazy">
     </a>
@@ -134,4 +134,13 @@ redirect_from:
       <li><time>2022</time><span>🏅 <strong>National First Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
     </ul>
   </div>
+</div>
+
+## 🌿 Personal Interests
+
+<div class="interests-list">
+  <span>🏃 Long-distance Running</span>
+  <span>📷 Photography</span>
+  <span>🏊 Swimming</span>
+  <span>🧗 Hiking</span>
 </div>
