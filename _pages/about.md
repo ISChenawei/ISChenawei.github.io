@@ -7,19 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-<p class="intro-lead">I am <strong>Zhongwei Chen (陈中伟)</strong>, a master’s student at <a href="http://www.xjtu.edu.cn/">Xi’an Jiaotong University</a>.</p>
-
-I work with Prof. [Zhaoxu Yang](https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN), Prof. [Haijun Rong](https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN), and Prof. [Guoqi Li](https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN). Before joining XJTU, I received my B.S. degree from the [Civil Aviation University of China](https://www.cauc.edu.cn/zhv5/), where I was advised by Prof. [Hongying Zhang](https://www.cauc.edu.cn/ddxy/info/1188/1516.htm).
-
-My research interests lie in <strong>visual navigation</strong>, <strong>cross-modal learning</strong>, and <strong>cross-view geo-localization</strong>. I am interested in building efficient and robust visual perception systems that connect observations across platforms and viewpoints.
+<div class="about-intro">
+  <div class="about-copy">
+    <p class="intro-lead">I am <strong>Zhongwei Chen (陈中伟)</strong>, an M.S. student in Aerospace Science and Technology at <a href="http://www.xjtu.edu.cn/">Xi’an Jiaotong University</a>.</p>
+    <p>My research focuses on <strong>cross-view geo-localization</strong>, <strong>cross-modal learning</strong>, and <strong>efficient visual computing</strong>, with the goal of building robust perception systems for autonomous aerial platforms.</p>
+    <p>I am fortunate to be advised by Prof. <a href="https://scholar.google.com/citations?user=t2JLE8EAAAAJ&hl=zh-CN">Zhaoxu Yang</a>, Prof. <a href="https://scholar.google.com/citations?user=ZUBNc3sAAAAJ&hl=zh-CN">Haijun Rong</a>, and Prof. <a href="https://scholar.google.com/citations?user=qCfE--MAAAAJ&hl=zh-CN">Guoqi Li</a>. Before joining XJTU, I received my B.S. degree from the <a href="https://www.cauc.edu.cn/zhv5/">Civil Aviation University of China</a>, where I worked with Prof. <a href="https://www.cauc.edu.cn/ddxy/info/1188/1516.htm">Hongying Zhang</a>.</p>
+  </div>
+</div>
 
 ## 🔥 News
 
 <div class="news-list">
   <div class="news-item"><time>Jul 2026</time><p>We released <strong>GeoMFD</strong>, a continual drone-view geo-localization framework with geometry-aware adaptation and margin-field distillation, on <strong>arXiv</strong>. <a href="https://arxiv.org/abs/2607.25788">Paper</a></p></div>
+  <div class="news-item"><time>Jul 2026</time><p>Our paper <strong>SpikeViMFormer</strong> was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. <a href="https://arxiv.org/abs/2512.19365">Paper</a> · <a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></p></div>
   <div class="news-item"><time>May 2026</time><p>Our paper <strong>DMNIL</strong> was accepted by <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. <a href="https://arxiv.org/abs/2502.11381">Paper</a> · <a href="https://github.com/ISChenawei/DMNIL">Code</a></p></div>
   <div class="news-item"><time>Apr 2026</time><p>Our paper <strong>CDIKTNet</strong> was accepted by <strong>IEEE Transactions on Multimedia</strong>. <a href="https://arxiv.org/abs/2503.07520">Paper</a> · <a href="https://github.com/ISChenawei/CDIKTNet">Code</a></p></div>
-  <div class="news-item"><time>2026</time><p>Our paper <strong>SpikeViMFormer</strong> was accepted by <strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>. <a href="https://arxiv.org/abs/2512.19365">Paper</a> · <a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></p></div>
   <div class="news-item"><time>May 2025</time><p>Our paper <strong>MEAN</strong> was accepted by <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. <a href="https://ieeexplore.ieee.org/document/11010144">Paper</a> · <a href="https://github.com/ISChenawei/MEAN">Code</a></p></div>
 </div>
 
@@ -94,7 +96,8 @@ My research interests lie in <strong>visual navigation</strong>, <strong>cross-m
 
 <div class="experience-item">
   <div class="experience-heading">
-    <div><strong>Huawei Consumer Business Group</strong><span>AI Agent / Software Development Intern</span></div>
+    <img src="/assets/logo/logo.svg" alt="Huawei logo">
+    <div><strong>Huawei Technologies Co., Ltd.</strong><span>AI Agent / Software Development Intern · Consumer Business Group</span></div>
   </div>
   <ul>
     <li>Built agentic development workflows spanning code understanding, task planning, code modification, and automated verification.</li>
