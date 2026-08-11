@@ -115,26 +115,23 @@ redirect_from:
     <h3>Academic Standing & Honors</h3>
     <ul class="honors-list">
       <li><time>Graduate</time><span><strong>GPA 3.55 / 4.0 · Ranked 3rd / 223 (Top 2%)</strong>, Aerospace Science and Technology, XJTU</span></li>
-      <li><time>2025</time><span><strong>National Scholarship</strong>, Second-Class Freshman Scholarship, and Outstanding Graduate Student, XJTU</span></li>
+      <li><time>2025</time><span>🇨🇳 <strong>National Scholarship</strong>, Second-Class Freshman Scholarship, and Outstanding Graduate Student, XJTU</span></li>
       <li><time>Undergrad</time><span><strong>Ranked 1st / 116</strong> in Automation and <strong>1st / 986</strong> for graduate recommendation at CAUC</span></li>
-      <li><time>2024</time><span><strong>National Scholarship</strong>, First-Class Academic Scholarship, Outstanding Graduate Representative, Outstanding Student, and Outstanding Thesis, CAUC</span></li>
-      <li><time>2023</time><span><strong>National Scholarship</strong>, First-Class Academic Scholarship, Innovation & Entrepreneurship Scholarship, and Outstanding Student</span></li>
+      <li><time>2024</time><span>🇨🇳 <strong>National Scholarship</strong>, First-Class Academic Scholarship, Outstanding Graduate Representative, Outstanding Student, and Outstanding Thesis, CAUC</span></li>
+      <li><time>2023</time><span>🇨🇳 <strong>National Scholarship</strong>, First-Class Academic Scholarship, Innovation & Entrepreneurship Scholarship, and Outstanding Student</span></li>
       <li><time>2022</time><span><strong>Wu Jianxiong Scholarship</strong>, First-Class Academic Scholarship, and Outstanding Student</span></li>
     </ul>
   </div>
   <div class="awards-group">
     <h3>Competition Awards</h3>
     <ul class="honors-list">
-      <li><time>2024</time><span><strong>National Second Prize</strong>, Huawei Cup Post-Graduate Mathematical Contest in Modeling</span></li>
-      <li><time>2023</time><span><strong>Bronze Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
-      <li><time>2023</time><span>🥈 <strong>Silver Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
-      <li><time>2023</time><span><strong>National Third Prize</strong>, Energy Conservation & Emission Reduction Competition</span></li>
+      <li><time>2024</time><span>🥈 <strong>National Second Prize</strong>, Huawei Cup Post-Graduate Mathematical Contest in Modeling</span></li>
+      <li><time>2023</time><span>🥉 <strong>National Third Prize</strong>, Energy Conservation & Emission Reduction Competition</span></li>
       <li><time>2023</time><span>🏅 <strong>First Prize</strong>, Challenge Cup Extracurricular Academic Works Competition, Tianjin Division</span></li>
-      <li><time>2023</time><span><strong>National Third Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
-      <li><time>2022</time><span><strong>National Second Prize</strong>, Higher Education Press Cup Mathematical Contest in Modeling</span></li>
-      <li><time>2022</time><span><strong>National Third Prize</strong>, International Advanced Robotics and Simulation Competition</span></li>
+      <li><time>2023</time><span>🥉 <strong>National Third Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
+      <li><time>2022</time><span>🥈 <strong>National Second Prize</strong>, Higher Education Press Cup Mathematical Contest in Modeling</span></li>
+      <li><time>2022</time><span>🥉 <strong>National Third Prize</strong>, International Advanced Robotics and Simulation Competition</span></li>
       <li><time>2022</time><span>🏅 <strong>National First Prize</strong>, University Student Transportation Science and Technology Competition</span></li>
-      <li><time>2022</time><span>🥈 <strong>Silver Award</strong>, China International “Internet+” Innovation and Entrepreneurship Competition, Tianjin Division</span></li>
     </ul>
   </div>
 </div>
