@@ -211,8 +211,23 @@ body { letter-spacing: 0; }
 }
 .publication-figure--wide img { height: 145px; }
 .publication-figure:hover img { transform: scale(1.008); }
-.publication-meta { display: flex; align-items: center; gap: 0.7rem; color: var(--global-text-color-light); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; }
+.publication-meta { display: flex; align-items: baseline; flex-wrap: wrap; gap: 0.7rem; color: var(--global-text-color-light); font-size: 0.68rem; line-height: 1.35; text-transform: uppercase; letter-spacing: 0.08em; }
 .publication-venue-mark { color: var(--accent); font-weight: 800; }
+.publication-metrics {
+  display: inline-block;
+  color: var(--accent);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.035em;
+  text-transform: none;
+  white-space: nowrap;
+  opacity: 0.9;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+.publication-metrics--a { color: var(--accent); opacity: 0.9; }
 .publication-info h3 { margin: 0.35rem 0 0.48rem; font-family: Georgia, "Times New Roman", serif; font-size: 1rem; font-weight: 600; line-height: 1.45; }
 .publication-authors, .publication-journal { margin: 0.12rem 0 !important; font-size: 0.82rem !important; line-height: 1.55; }
 .publication-journal { color: var(--global-text-color-light); font-style: italic; }

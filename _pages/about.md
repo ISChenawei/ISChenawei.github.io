@@ -48,7 +48,7 @@ redirect_from:
       <img src="/images/publications/tcsvt.png" alt="SpikeViMFormer network architecture" loading="lazy">
     </a>
     <div class="publication-info">
-      <div class="publication-meta"><span class="publication-venue-mark">TCSVT 2026</span><span>Journal Article</span></div>
+      <div class="publication-meta"><span class="publication-venue-mark">TCSVT 2026</span><span>Journal Article</span><span class="publication-metrics">CCF-B · IF 10.8</span></div>
       <h3>Efficient Spike-driven Transformer for High-performance Drone-View Geo-Localization</h3>
       <p class="publication-authors"><strong>Zhongwei Chen</strong>, Hai-Jun Rong, Longrun Xu, Jie Lu, Zhuo Zou, Zhao-Xu Yang, Guoqi Li</p>
       <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11622533">Paper</a><a href="https://arxiv.org/abs/2512.19365">arXiv</a><a href="https://github.com/ISChenawei/SpikeViMFormer">Code</a></div>
@@ -60,7 +60,7 @@ redirect_from:
       <img src="/images/publications/tnnls.png" alt="DMNIL network architecture" loading="lazy">
     </a>
     <div class="publication-info">
-      <div class="publication-meta"><span class="publication-venue-mark">TNNLS 2026</span><span>Journal Article</span></div>
+      <div class="publication-meta"><span class="publication-venue-mark">TNNLS 2026</span><span>Journal Article</span><span class="publication-metrics">CCF-B · IF 9.7</span></div>
       <h3>Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-view Geo-Localization</h3>
       <p class="publication-authors"><strong>Zhongwei Chen</strong>, Zhao-Xu Yang, Hai-Jun Rong, Guoqi Li</p>
       <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11540350">Paper</a><a href="https://arxiv.org/abs/2502.11381">arXiv</a><a href="https://github.com/ISChenawei/DMNIL">Code</a></div>
@@ -72,7 +72,7 @@ redirect_from:
       <img src="/images/publications/tmm.png" alt="CDIKTNet network architecture" loading="lazy">
     </a>
     <div class="publication-info">
-      <div class="publication-meta"><span class="publication-venue-mark">TMM 2026</span><span>Journal Article</span></div>
+      <div class="publication-meta"><span class="publication-venue-mark">TMM 2026</span><span>Journal Article</span><span class="publication-metrics publication-metrics--a">CCF-A · IF 9.9</span></div>
       <h3>From Limited Labels to Open Domains: An Efficient Learning Method for Drone-view Geo-Localization</h3>
       <p class="publication-authors"><strong>Zhongwei Chen</strong>, Zhao-Xu Yang, Hai-Jun Rong, Jiawei Lang, Guoqi Li</p>
       <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11622851">Paper</a><a href="https://arxiv.org/abs/2503.07520">arXiv</a><a href="https://github.com/ISChenawei/CDIKTNet">Code</a></div>
@@ -84,7 +84,7 @@ redirect_from:
       <img src="/images/publications/tgrs.png" alt="MEAN network architecture" loading="lazy">
     </a>
     <div class="publication-info">
-      <div class="publication-meta"><span class="publication-venue-mark">TGRS 2025</span><span>Journal Article</span></div>
+      <div class="publication-meta"><span class="publication-venue-mark">TGRS 2025</span><span>Journal Article</span><span class="publication-metrics">CCF-B · IF 9.4</span></div>
       <h3>Multilevel Embedding and Alignment Network With Consistency and Invariance Learning for Cross-View Geo-Localization</h3>
       <p class="publication-authors"><strong>Zhongwei Chen</strong>, Zhao-Xu Yang, Hai-Jun Rong</p>
       <div class="publication-links"><a href="https://ieeexplore.ieee.org/document/11010144">Paper</a><a href="https://arxiv.org/abs/2412.14819">arXiv</a><a href="https://github.com/ISChenawei/MEAN">Code</a></div>
